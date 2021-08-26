@@ -1,0 +1,17 @@
+/*
+////////////////
+COLOR
+#08fdd8
+#1d1d1d
+*/
+
+body {
+  background-color: #1d1d1d;
+}
+
+.skills-chart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
